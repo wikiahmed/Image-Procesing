@@ -1,0 +1,11 @@
+This project demonstrates a simple color picker interface using OpenCV and NumPy. The application allows users to dynamically adjust the RGB values of a blank canvas and switch between an "ON" and "OFF" state. The color values can be modified in real-time using trackbars.
+
+## Features
+- Dynamically update canvas colors in real-time using RGB trackbars.
+- "ON/OFF" switch to toggle the canvas between a selected color and black.
+- Built with Python, leveraging OpenCV for GUI functionality.
+
+## Requirements
+Python 3.8 or later
+OpenCV library (`cv2`)
+NumPy library (`numpy`)
